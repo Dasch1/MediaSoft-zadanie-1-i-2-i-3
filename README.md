@@ -71,9 +71,13 @@
 *   Второе задани для Медиасофта
 *   в формате PDF:
 [BPMN диаграмма .drawio.pdf](https://github.com/user-attachments/files/23842087/BPMN.drawio.pdf)
+
 В формате.png
+
 <img width="1123" height="861" alt="BPMN диаграмма " src="https://github.com/user-attachments/assets/74a84fd4-1e60-40a8-a49a-4f56e45fe820" />
+
 В формате HITML
+
 [BPMN диаграмма .drawio.html](https://github.com/user-attachments/files/23842103/BPMN.drawio.html)
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
 <!DOCTYPE html>
