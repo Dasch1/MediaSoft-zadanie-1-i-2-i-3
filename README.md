@@ -101,10 +101,20 @@
 
 
 ЗАДАНИЕ ТРЕТЬЕ ДЛЯ МЕДИАСОФТА 
+
 Сохранено в трёх форматов 
+
 - в формате PDF
+
+
  [Диаграмма ERD.drawio.pdf](https://github.com/user-attachments/files/24049067/ERD.drawio.pdf)
+
+
+ 
 - в формате HTML
+
+
+
 [Uplo<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
 <!DOCTYPE html>
 <html>
@@ -116,6 +126,11 @@
 <script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
 </body>
 </html>ading Диаграмма ERD.drawio.html…]()
+
+
+
 - в формате PNG
+
+
 <img width="917" height="1093" alt="Диаграмма ERD drawio" src="https://github.com/user-attachments/assets/0031e61f-a10d-4784-9f9c-c912d093c283" />
 
